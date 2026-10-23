@@ -1,0 +1,40 @@
+{
+  "schema_version": "public-example-v1",
+  "actor_id": "actor/example-resident",
+  "mode": "recall",
+  "identity_core": {
+    "token_estimate": 420,
+    "source": "approved identity contract"
+  },
+  "working_memory": {
+    "revision": 3,
+    "token_estimate": 880,
+    "state": {
+      "current_goal": "Continue the memory rollout safely",
+      "recent_decisions": [
+        "Keep automatic recall disabled during observation",
+        "Preserve raw evidence when compacting context"
+      ],
+      "open_loops": [
+        "Evaluate recall quality before activation"
+      ]
+    }
+  },
+  "recent_raw_tail": {
+    "token_estimate": 4100,
+    "messages_included": 6
+  },
+  "retrieval": {
+    "token_estimate": 1200,
+    "cards": [
+      {
+        "memory_id": "mem_demo_001",
+        "authority": "approved-memory",
+        "reason_selected": "Directly supports the current architecture question",
+        "provenance": "sanitized://source/example"
+      }
+    ]
+  },
+  "total_token_estimate": 6600,
+  "note": "Sanitized illustrative example. Not production data."
+}

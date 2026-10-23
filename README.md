@@ -5,7 +5,7 @@
 **Status:** Active development · Production-backed prototype  
 **Focus:** Applied AI systems · LLM integration · memory architecture · runtime reliability · product delivery
 
-<img src="screenshots/home-dashboard.webp" alt="Home dashboard" width="1000">
+<img src="screenshots/home-dashboard-final.png" alt="Home dashboard" width="1000">
 
 ---
 
@@ -44,7 +44,7 @@ The Rooms surface turns system concepts into user-facing spaces such as a privat
 
 ### Integration surface
 
-<img src="screenshots/connections-roadmap.webp" alt="Connections roadmap" width="1000">
+<img src="screenshots/connections-roadmap-final.png" alt="Connections roadmap" width="1000">
 
 The Connections surface communicates planned and available system capabilities. Unwired integrations are explicitly marked **MOCK · NOT CONNECTED** rather than presented as live production features.
 

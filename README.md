@@ -5,6 +5,8 @@
 **Status:** Active development · Production-backed prototype  
 **Focus:** Applied AI systems · LLM integration · memory architecture · runtime reliability · product delivery
 
+![Home dashboard](screenshots/home-dashboard.webp)
+
 ---
 
 ## Why I Built This
@@ -27,6 +29,26 @@ Home started as a personal experiment and evolved into a production-backed appli
 - testing, migration and rollback
 
 This repository is a **sanitized public case study**. Production code, private conversations, secrets, personal memory and internal configuration are intentionally excluded.
+
+---
+
+## Product Experience
+
+Home is designed as a long-running workspace rather than a conventional chat-only interface.
+
+### Spatial workspace
+
+![Rooms overview](screenshots/rooms-overview.webp)
+
+The Rooms surface turns system concepts into user-facing spaces such as a private wing, living room, reading room, workroom and memory hall. The goal is to make different interaction modes understandable without exposing backend implementation detail.
+
+### Integration surface
+
+![Connections roadmap](screenshots/connections-roadmap.webp)
+
+The Connections surface communicates planned and available system capabilities. Unwired integrations are explicitly marked **MOCK · NOT CONNECTED** rather than presented as live production features.
+
+A private Chat screenshot is intentionally excluded from this public repository because it contains personal conversation context. A sanitized demo conversation can be added later.
 
 ---
 
@@ -220,7 +242,7 @@ Git · idempotency · state management · permissions / ACL · provenance · reg
 - [Key Design Decisions](docs/DESIGN_DECISIONS.md)
 - [Sanitized Context Pack Example](examples/context-pack.example.json)
 - [Sanitized Message Envelope Example](examples/message-envelope.example.json)
-- [Screenshots Guide](screenshots/README.md)
+- [Screenshots & Publication Rules](screenshots/README.md)
 
 ---
 

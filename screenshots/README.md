@@ -1,13 +1,29 @@
 # Screenshots
 
-This folder is reserved for **sanitized product screenshots**.
+This folder contains **sanitized public product evidence** for the Home case study.
 
-Planned examples:
+## Published
 
-1. Home chat / room interface
-2. Memory / Context Health view
-3. Architecture or workflow preview
-4. Selected debug / acceptance evidence where no private data is visible
+### Home dashboard
+`home-dashboard.webp`
+
+Shows the main Home surface, environment context, resident presence and lightweight daily-state projections.
+
+### Rooms overview
+`rooms-overview.webp`
+
+Shows the spatial information architecture used to make different interaction modes understandable to the user.
+
+### Connections roadmap
+`connections-roadmap.webp`
+
+Shows the integration surface. Items that are not wired are explicitly labelled **MOCK · NOT CONNECTED**.
+
+## Deliberately Not Published
+
+The current private Chat screenshot is not included because it contains personal conversation context and resident-specific private content.
+
+A future public Chat screenshot should use a sanitized demo conversation.
 
 ## Publication Rules
 

@@ -38,7 +38,7 @@ Home is designed as a long-running workspace rather than a conventional chat-onl
 
 ### Spatial workspace
 
-![Rooms overview](screenshots/rooms-overview.png)
+![Rooms overview](screenshots/rooms-overview-final.png)
 
 The Rooms surface turns system concepts into user-facing spaces such as a private wing, living room, reading room, workroom and memory hall. The goal is to make different interaction modes understandable without exposing backend implementation detail.
 

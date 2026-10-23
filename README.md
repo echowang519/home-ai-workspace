@@ -5,7 +5,7 @@
 **Status:** Active development · Production-backed prototype  
 **Focus:** Applied AI systems · LLM integration · memory architecture · runtime reliability · product delivery
 
-![Home dashboard](screenshots/home-dashboard.webp)
+<img src="screenshots/home-dashboard.webp" alt="Home dashboard" width="1000">
 
 ---
 
@@ -38,13 +38,13 @@ Home is designed as a long-running workspace rather than a conventional chat-onl
 
 ### Spatial workspace
 
-![Rooms overview](screenshots/rooms-overview-final.png)
+<img src="screenshots/rooms-overview-final.png" alt="Rooms overview" width="1000">
 
 The Rooms surface turns system concepts into user-facing spaces such as a private wing, living room, reading room, workroom and memory hall. The goal is to make different interaction modes understandable without exposing backend implementation detail.
 
 ### Integration surface
 
-![Connections roadmap](screenshots/connections-roadmap.webp)
+<img src="screenshots/connections-roadmap.webp" alt="Connections roadmap" width="1000">
 
 The Connections surface communicates planned and available system capabilities. Unwired integrations are explicitly marked **MOCK · NOT CONNECTED** rather than presented as live production features.
 
